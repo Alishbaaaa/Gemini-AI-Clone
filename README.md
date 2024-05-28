@@ -29,5 +29,6 @@ To run the Gemini 2.0 Clone locally, follow these steps:
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Start the server using `npm run dev`.
+3. Generate your own Gemini Api Key and add it in the 'gemini.js' file
+4. Start the server using `npm run dev`.
 
